@@ -37,7 +37,7 @@ const Navbar = () => {
     <header className="navbar navbar-expand-lg sticky-top shadow">
       <div className="container-fluid">
         <a className="navbar-brand d-flex align-items-center" href="/">
-          <img src="/public/images/navbar/logonav.png" alt="Benavidez FC" />
+          <img src="/images/navbar/logonav.png" alt="Benavidez FC" />
           <span>
             Benavidez
             <br />

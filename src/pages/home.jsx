@@ -85,7 +85,7 @@ const Home = () => {
           <div className="row g-4">
             <div className="col-md-6 col-lg-4">
               <div className="news-card">
-                <img src="/public/images/pages/primernoticia.png" alt="Nueva camiseta edición 2025" className="news-img-top mb-3"/>
+                <img src="/images/pages/primernoticia.png" alt="Nueva camiseta edición 2025" className="news-img-top mb-3"/>
                 <h5>Nueva camiseta edición 10 Años</h5>
                 <p>Presentamos los modelos conmemorativos por los 10 años de historia del club.</p>
                 <a href="/noticias" className="link-more">Leer más →</a>
@@ -94,7 +94,7 @@ const Home = () => {
 
             <div className="col-md-6 col-lg-4">
               <div className="news-card">
-                <img src="/public/images/pages/segundanoticia.jpg" alt="Arrancan las inscripciones" className="news-img-top mb-3"/>
+                <img src="/images/pages/segundanoticia.jpg" alt="Arrancan las inscripciones" className="news-img-top mb-3"/>
                 <h5>Arrancan las inscripciones</h5>
                 <p>¡Te esperamos!, Sumate</p>
                 <a href="/noticias" className="link-more">Leer más →</a>
@@ -103,7 +103,7 @@ const Home = () => {
 
             <div className="col-md-6 col-lg-4">
               <div className="news-card">
-                <img src="/public/images/pages/terceranoticia.jpeg" alt="Arrancan las inscripciones" className="news-img-top mb-3"/>
+                <img src="/images/pages/terceranoticia.jpeg" alt="Arrancan las inscripciones" className="news-img-top mb-3"/>
                 <h5>17 años de su partida</h5>
                 <p>Recordando en este dia a 17 años de su partida al "MAGO GASPAR" </p>
                 <a href="/noticias" className="link-more">Leer más →</a>

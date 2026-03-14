@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="row text-center text-md-start">
 
           <div className="col-md-3 mb-4">
-            <img src="/public/images/footer/logofooter.png" alt="Logo BFC Club" className="footer-logo mb-3" />
+            <img src="/images/footer/logofooter.png" alt="Logo BFC Club" className="footer-logo mb-3" />
             <p className="footer-text">&copy; 2025 BENAVIDEZ FÚTBOL CLUB</p>
             <p className="footer-text">Pasión por los colores desde 2016</p>
           </div>

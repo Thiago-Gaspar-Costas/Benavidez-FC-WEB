@@ -9,7 +9,7 @@ const noticiasData = [
     resumen: "Presentamos los modelos conmemorativos por los 10 años de historia del club.",
     contenido:
       "Benavidez Fútbol Club lanza su camiseta edición especial por los 10 años. Inspirada en los primeros colores del club, combina detalles dorados con el tradicional verde y amarillo. Disponible desde este mes en la tienda oficial.",
-    imagen: "/public/images/pages/primernoticia.png",
+    imagen: "/images/pages/primernoticia.png",
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const noticiasData = [
     resumen: "¡Te esperamos! Sumate a nuestra gran familia futbolera.",
     contenido:
       "El club abre las inscripciones para las categorías infantiles, juveniles y mayores. Vení a entrenar, disfrutar y crecer con nosotros. ¡Tu lugar está en Benavidez FC!",
-    imagen: "/public/images/pages/segundanoticia.jpg",
+    imagen: "/images/pages/segundanoticia.jpg",
   },
   {
     id: 3,
@@ -25,7 +25,7 @@ const noticiasData = [
     resumen: 'Recordando en este día a 17 años de la partida del "MAGO GASPAR".',
     contenido:
       "Hoy recordamos al querido Mago Gaspar, símbolo eterno del club. Su pasión, humildad y amor por los colores siguen vivos en cada entrenamiento y partido.",
-    imagen: "/public/images/pages/terceranoticia.jpeg",
+    imagen: "/images/pages/terceranoticia.jpeg",
   },
 ];
 
